@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiliczsh" alt="kiliczsh" /> </p>
 
-- 📝 I randomly write articles on [kilic.js.org](https://kilic.js.org)
+- 📝 I randomly write articles on [blog.muhammedkilic.com](https://blog.muhammedkilic.com/)
 
 - 📫 How to reach me **muhammeddkilicc@gmail.com**
 
