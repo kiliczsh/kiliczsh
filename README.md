@@ -40,7 +40,7 @@ These days I'm mostly working on **agent tooling, MCP servers, and generative in
 - 🧰 **uioption** <sub>🚧 work in progress, not public yet</sub>
   MCP server that gives AI assistants UI skill resources, design guidelines, and static assets for building interfaces with Tailwind CSS, plus a companion [Chrome extension](https://github.com/kiliczsh/uioption-extension) for injecting design variants and inspecting UI components on local dev pages.
 
-- 🗺️ [**ailandscape.org**](https://github.com/kiliczsh/ailandscape.org)
+- 🗺️ [**ailandscape.org**](https://ailandscape.org/)
   A comprehensive, interactive map of the AI tools ecosystem.
 
 ---
